@@ -1,11 +1,10 @@
 # listen
-because I've had to write this more than once
-
-## what
-listens on a port and prints any data that comes in
+listen on a port and print all incoming data to stdout
 
 ## why
-you know how you use telnet to figure out how things like ftp and smtp work
+because I've had to write this more than once
+
+you know how you use telnet to figure out how things like ftp and smtp work?
 
 sometimes you need to analyse the request a client is sending
 
