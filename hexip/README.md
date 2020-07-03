@@ -25,7 +25,7 @@ lga25s60-in-f14.1e100.net 172.217.11.14 0xacd90b0e
 ## install
 
 ```
-$ go install github.com/generaltso/miscellaneous/hexip
+$ go install github.com/dayvonjersen/miscellaneous/hexip
 ```
 
 ## note

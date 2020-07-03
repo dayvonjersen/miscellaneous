@@ -11,7 +11,7 @@ sometimes you need to analyse the request a client is sending
 actually if telnet can do this already then [let me know](mailto:tso@teknik.io)
 
 ## install
-`$ go install github.com/generaltso/miscellaneous/listen`
+`$ go install github.com/dayvonjersen/miscellaneous/listen`
 
 ## usage
 ### in

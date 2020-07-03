@@ -2,7 +2,7 @@
 because gnu column doesn't exist on windows
 
 ## install
-`$ go install github.com/generaltso/miscellaneous/column`
+`$ go install github.com/dayvonjersen/miscellaneous/column`
 
 ## usage
 ### in
